@@ -1,3 +1,15 @@
+<p align="center">
+  <a href="https://jinnafi.vercel.app/">
+    <img src="https://deploy-badge.vercel.app/api/deployments/uaai/jinnafi" alt="Vercel Deployment Status" />
+  </a>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
+</p>
+
+---
+
 # JINNA 5 - منصة تأهيل مهندسي وباحثي الذكاء الاصطناعي ونظم LLMs
 
 > **تم التطوير بواسطة:** المهندس يوسف الباز (Automation Ai Yousuf Albaz)
