@@ -5,6 +5,8 @@
 منصة تفاعلية هندسية متقدمة لتأهيل وتدريب مهندسي وباحثي الذكاء الاصطناعي من مستوى العتاد والرياضيات حتى تدريب ونشر النماذج اللغوية الضخمة (LLMs) على بيئات الحوسبة الموزعة.
 
 ---
+🚀 **Live Demo:** [jinnafi.vercel.app](https://jinnafi.vercel.app/)
+---
 
 ## 🌟 مميزات المنصة
 - **10 فصول تخصصية عميقة:** من CUDA وVRAM وحتى Distillation وQuantization وDistributed Training (FSDP/Megatron-LM).
